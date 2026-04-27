@@ -11,8 +11,8 @@ I'm a Neuroscience Master's student at the University of Cologne, working on com
 Python · NumPy · Pandas · Matplotlib · Bash · Linux · Git
 
 ## 📌 Selected Work
-- Computational models of memory formation in *Drosophila*  Link here ??
-- Analysis of in vivo neuronal recordings in honey bees  Link hiere??
+Computational model of learning-related neuronal calcium activity in the mushroom body of *Drosophila melanogaster*.
+→ https://github.com/Baaxter/Memory-Patterns-across-Synaptic-Boutons
 
 ## 🧠 Background
 Research experience at Nawrot Lab and Ito Lab (University of Cologne)  
