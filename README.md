@@ -8,7 +8,7 @@ I'm a Neuroscience Master's student at the University of Cologne, working on com
 - Analysis of large-scale neuronal data (bees, connectomics)
 
 ## ⚙️ Tools
-Python · NumPy · Pandas · Matplotlib · Bash · Linux · Git
+Python · Matlab · Bash · Linux · Git
 
 ## 📌 Selected Work
 Computational model of learning-related neuronal calcium activity in the mushroom body of *Drosophila melanogaster*.
